@@ -29,3 +29,8 @@ public/world.json
 .dev.*
 .kiro/steering/locale.md
 wrangler.jsonc
+
+.claude
+.opencode
+.agents
+opencode.json
